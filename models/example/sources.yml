@@ -1,0 +1,7 @@
+sources:
+  - name: demo
+    database: CUSTOMERS
+    schema: ORDER
+    tables:
+      - name: ORDER_ITEMS
+      - name: SALES
